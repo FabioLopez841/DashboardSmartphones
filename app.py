@@ -1,6 +1,9 @@
-import streamlit as st
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 import plotly.express as px
+import streamlit as st
+from scipy.stats import ttest_ind
 
 # Leer el archivo CSV
 df = pd.read_csv("smartphones.csv")  # Asegúrate de que 'datos.csv' contenga las columnas indicadas

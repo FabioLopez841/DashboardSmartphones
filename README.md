@@ -50,13 +50,6 @@ Los datos provienen de múltiples fuentes (ej. Kaggle, GSMArena, Statista) y fue
 
 ---
 
-## 📷 Vista del Dashboard
-
-![Smartphone Market Dashboard](images/smartphone_dashboard_sample.png)
-
-> *La imagen es solo una muestra, el dashboard completo está disponible en el repositorio o en línea.*
-
----
 
 ## 🧠 Principales Insights
 
@@ -66,25 +59,3 @@ Los datos provienen de múltiples fuentes (ej. Kaggle, GSMArena, Statista) y fue
 - La relación precio/especificaciones favorece a ciertas marcas emergentes en Asia.
 
 ---
-
-## 🚀 Acceso al Dashboard
-
-Puedes acceder al dashboard en línea aquí:  
-🔗 [Enlace al Dashboard Interactivo](https://tudashboard.example.com)
-
-O explorar el archivo local en formato `.pbix` / `.twbx` / `.ipynb` según la herramienta utilizada.
-
----
-
-## 📁 Estructura del Repositorio
-
-```bash
-├── data/
-│   └── smartphones_market_data.csv
-├── dashboard/
-│   └── smartphone_dashboard.pbix
-├── scripts/
-│   └── data_cleaning.py
-├── images/
-│   └── smartphone_dashboard_sample.png
-├── README.md
